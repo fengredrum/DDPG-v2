@@ -3,7 +3,7 @@
 This is an tensorflow implementation of the paper "Continuous control with deep reinforcement learning".
 
 This code is a modified version of [my previous DDPG implementation](https://github.com/fengredrum/DDPG-TensorFlow). The goal of this version is making the program more compact, and capable of solving more complex environment.
-<img src="https://www.tensorflow.org/images/tf_logo_transp.png" width=55% align="right">
+![Alt text](DDPG-v2/ddpg.png?raw=true "Title")
 
 
 The code is adapted from [here](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) with some improvement. The main difference between the MorvanZhou's version and this code is
